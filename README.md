@@ -81,25 +81,25 @@ The model is built using **EfficientNetB0** with transfer learning:
 ---
 
 ## Technologies & Tools Used
--Programming Language: Python
--Deep Learning Framework: TensorFlow / Keras
--Model: EfficientNetB0
--Libraries:
+- **Programming Language**: Python
+- **Deep Learning Framework**: TensorFlow / Keras
+- **Model**: EfficientNetB0
+- **Libraries**:
 
-    -NumPy
+    - NumPy
 
-    -Matplotlib
+    - Matplotlib
 
-    -OpenCV
+    - OpenCV
 
-    -Gradio
-----
+    - Gradio
+---
 
 ## Key Skills Demonstrated
--Convolutional Neural Networks (CNN)
--Transfer Learning
--EfficientNet Architecture
--Data Augmentation
--Model Fine-Tuning
--Binary Image Classification
--Model Deployment with Gradio
+- Convolutional Neural Networks (CNN)
+- Transfer Learning
+- EfficientNet Architecture
+- Data Augmentation
+- Model Fine-Tuning
+- Binary Image Classification
+- Model Deployment with Gradio
